@@ -1,0 +1,223 @@
+	Buenas tardes!!!
+
+	Buenas tardes!
+
+	SISI
+
+	Hola! buenas tardes, saludos desde BsAs Argentina
+
+	Hola, buenas tardes con todos
+
+	Buenas tardes!
+
+	#miedo
+
+	Si, Daniiiii
+
+	Buenas tardes
+
+	Jajajaja
+
+	Un placer!
+18:06:57 From  José Yarita  to  Everyone:
+	buenas tardes
+18:07:19 From  Nico Quiroz  to  Everyone:
+	bárbaro! voy por el Mate 🧉
+18:10:41 From  Marce Guillen  to  Diego Sipes(Direct Message):
+	Hola! Die Consulta después se puede acceder a la charla grabada? 18:30 tengo reu de consorcio :S
+18:11:05 From  Diego Sipes  to  Marce Guillen(Direct Message):
+	hola marce, luego nosotros compartimos el link  :-)
+18:11:47 From  Marce Guillen  to  Diego Sipes(Direct Message):
+	excelente! gracias. no me lo quería perder
+18:12:04 From  Diego Sipes  to  Marce Guillen(Direct Message):
+	Muchas gracias por venir Marce, posta gracias! :-)
+18:21:44 From  Daniel R  to  Everyone:
+	Mucha información, conceptos varios
+18:21:47 From  Andrés Bareiro  to  Everyone:
+	rutinario jeje
+18:21:47 From  Marce Guillen  to  Everyone:
+	Unificar  la info
+18:21:54 From  Natalia Castillo  to  Everyone:
+	recopilar información
+18:22:16 From  Andrés Bareiro  to  Everyone:
+	Conciliar excels
+18:22:18 From  Javier Pastor  to  Everyone:
+	registrar los incidentes y eventos
+18:22:24 From  Marcela Soto  to  Everyone:
+	control y unificación
+18:22:25 From  Elisabet  to  Everyone:
+	Recopilar de todas las areas y lugares de trabajo informacion que debe reflejarse en el recibo
+18:26:31 From  Marce Guillen  to  Everyone:
+	chicos no se esta grabando.
+18:27:08 From  Leticia- Arbusta  to  Everyone:
+	El hospedador es Yanel
+18:30:28 From  Alejandro Enrique  to  Everyone:
+	1
+18:30:36 From  Natalia Castillo  to  Everyone:
+	2
+18:30:36 From  Javier Pastor  to  Everyone:
+	1
+18:30:38 From  Elisabet  to  Everyone:
+	2
+18:30:39 From  Atilio Calvo - ARG  to  Everyone:
+	1
+18:30:39 From  Andrés Bareiro  to  Everyone:
+	2
+18:30:42 From  Nerina Nicotera  to  Everyone:
+	1
+18:30:42 From  Nicole  to  Everyone:
+	2
+18:30:45 From  Juan Pablo  to  Everyone:
+	2
+18:30:46 From  Leticia- Arbusta  to  Everyone:
+	2
+18:30:50 From  Marce Guillen  to  Everyone:
+	1  - Sé que existe
+18:30:51 From  Priscila S  to  Everyone:
+	1
+18:30:58 From  Armando Venegas  to  Everyone:
+	2
+18:31:07 From  José Yarita  to  Everyone:
+	1
+18:31:14 From  Marcela Soto  to  Everyone:
+	2
+18:32:10 From  Elisabet  to  Everyone:
+	😍
+18:34:09 From  Javier Pastor  to  Everyone:
+	Cuando dicen liquidación de sueldos se refieren a cálculo de planilla de sueldos? Soy de Lima, Perú. Aquí se dice liquidación al cálculo de la liquidación de beneficios sociales, cuando el colaborador se desvincula.
+18:35:23 From  Diego Sipes  to  Marce Guillen(Direct Message):
+	hola Javier, ahora en un espacio te respondo
+18:35:56 From  Daniela Garcia  to  Everyone:
+	Así es Javier, se le dice liq de sueldo al cálculo de planilla
+18:36:14 From  Javier Pastor  to  Everyone:
+	Gracias
+18:36:34 From  Daniela Garcia  to  Everyone:
+	En este caso lo que muestran los chicos son todos los pasos previos para obtener ese producto final. De nada!
+18:37:35 From  Javier Pastor  to  Everyone:
+	Correcto
+18:38:12 From  Javier Pastor  to  Everyone:
+	Gracias
+18:38:23 From  Javier Pastor  to  Everyone:
+	Quedó claro
+18:42:44 From  Nico Quiroz  to  Everyone:
+	👍
+18:43:49 From  Elisabet  to  Everyone:
+	Yes!
+18:44:13 From  Javier Pastor  to  Everyone:
+	para escribir en el lenguaje R se requiere un entorno en particular? hay que descargar algo?
+18:44:38 From  Leticia- Arbusta  to  Everyone:
+	Si Javier, tenes que descargar R y R Studio
+18:44:41 From  Daniela Garcia  to  Everyone:
+	Además de descargar R, se descarga R Studio
+18:44:57 From  Javier Pastor  to  Everyone:
+	ok, gracias
+18:45:00 From  Diego Sipes  to  Everyone:
+	exacto
+18:45:44 From  Daniela Garcia  to  Everyone:
+	Trabajar Localmente	Descargar dos programas:	- R: https://cran.r-project.org/	- RStudio: https://rstudio.com/products/rstudio/download/		Trabajar en la nube	Creando una cuenta gratuita en RStudio Cloud.
+18:50:10 From  Nico Quiroz  to  Everyone:
+	tip#1  Atreverse a Googlear  :D
+18:50:29 From  Diego Sipes  to  Everyone:
+	yeah!
+18:51:57 From  Daniela Garcia  to  Everyone:
+	tip #2: ctrl+c y crtl +v	El mundo es tuyo
+18:52:54 From  Leticia- Arbusta  to  Everyone:
+	😂
+18:56:41 From  Nico Quiroz  to  Everyone:
+	👍
+18:56:42 From  Javier Pastor  to  Everyone:
+	todo bien
+18:56:50 From  Elisabet  to  Everyone:
+	👌
+18:57:04 From  Marcela Soto  to  Everyone:
+	👌
+18:58:50 From  Leticia- Arbusta  to  Everyone:
+	👍
+18:59:01 From  Atilio Calvo - ARG  to  Everyone:
+	si
+18:59:07 From  Nico Quiroz  to  Everyone:
+	dale
+18:59:25 From  Priscila S  to  Everyone:
+	si
+18:59:35 From  Javier Pastor  to  Everyone:
+	está muy interesante, hay que seguir
+19:00:02 From  Daniela Garcia  to  Everyone:
+	confirmo
+19:00:07 From  Daniela Garcia  to  Everyone:
+	😄
+19:00:43 From  Elisabet  to  Everyone:
+	Va a ser comun entrar en shock......
+19:00:53 From  Diego Sipes  to  Everyone:
+	ajajaj
+19:00:56 From  Elisabet  to  Everyone:
+	p
+19:09:40 From  Armando Venegas  to  Everyone:
+	todo perfecto muchas gracias
+19:09:44 From  Daniel R  to  Everyone:
+	Está muy interesante saber las posibilidades de R
+19:09:47 From  Atilio Calvo - ARG  to  Everyone:
+	👍🏻
+19:10:07 From  Elisabet  to  Everyone:
+	Esto te garantiza años de vida
+19:10:11 From  Nico Quiroz  to  Everyone:
+	👏👏👏👏
+19:10:14 From  Leticia- Arbusta  to  Everyone:
+	Muchas gracias!!!
+19:10:22 From  Daniel R  to  Everyone:
+	En algún punto hay que actualizar el codigo para agregar nuevos conceptos de Payroll?
+19:10:24 From  Cintya Gross  to  Everyone:
+	GENIA!!!
+19:10:29 From  Marcela Soto  to  Everyone:
+	Muy bueno!!!
+19:10:40 From  Natalia Castillo  to  Everyone:
+	Muy bueno saber como lo podemos aplicar en la práctica.
+19:10:40 From  Priscila S  to  Everyone:
+	muy interesante, gracias
+19:10:57 From  Javier Pastor  to  Everyone:
+	Como diría el gran Gustavo... "Gracias... totales"
+19:11:03 From  Alejandro Andreozzi  to  Everyone:
+	excelente
+19:11:28 From  Nerina Nicotera  to  Everyone:
+	Super interesante!
+19:12:01 From  Elisabet  to  Everyone:
+	Yanel y como sacas esa info para pasar a un excel por ejemplo?
+19:12:52 From  Daniel R  to  Everyone:
+	Excelente :) Gracias
+19:13:14 From  Elisabet  to  Everyone:
+	Genial!
+19:14:16 From  Marcela Soto  to  Everyone:
+	Los data frame que realices en R, se pueden exportar con un código
+19:14:20 From  Elisabet  to  Everyone:
+	Gracias a ustedes!
+19:15:11 From  Nico Quiroz  to  Everyone:
+	Muchas Gracias a tod@s! muy buen encuentro.
+19:15:11 From  Elisabet  to  Everyone:
+	Muy buena la presentacion.
+19:15:36 From  Elisabet  to  Everyone:
+	A probar codigos que se acaba el mundo
+19:15:45 From  Alejandro Enrique  to  Everyone:
+	Herramientas muy buenas
+19:15:51 From  Daniela Garcia  to  Everyone:
+	😂😂
+19:15:54 From  Leticia- Arbusta  to  Everyone:
+	Fue mu útil, cómo dijo Elisabet te ahorra años de vida
+19:15:58 From  Natalia Castillo  to  Everyone:
+	Muy claro todo, ver como llevarlo a la practica. Ahora es cuestión de probar!
+19:16:00 From  Cintya Gross  to  Everyone:
+	GRACIASSSSSSSSSSSSSSS
+19:16:09 From  Marcela Soto  to  Everyone:
+	Muy bueno!!!
+19:16:16 From  Nico Quiroz  to  Everyone:
+	¡muchas gracias! nos vemos en la próxima
+19:16:24 From  Atilio Calvo - ARG  to  Everyone:
+	Muy bueno! Interesante!👏🏻
+19:16:29 From  Elisabet  to  Everyone:
+	Leticia, no te los ahorra te los garantiza 😁
+19:16:30 From  Nerina Nicotera  to  Everyone:
+	Muy buena presentación. Gracias!
+19:17:04 From  Alejandro Enrique  to  Everyone:
+	Gracias¡¡¡
+19:18:16 From  Atilio Calvo - ARG  to  Everyone:
+	Gracias!
+19:18:17 From  Elisabet  to  Everyone:
+	Buen finde!
